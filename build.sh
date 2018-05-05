@@ -26,11 +26,7 @@ elif [ "$TRAVIS_BRANCH" != "hosts-source" ]; then
 	echoye Bulding for a branch other than \"hosts-source\", deployment skipped.
 else
 	echogr Starting deployment.
-
-	echogr Importing SSH key.
-	base64 -d <<< $SSH_KEY > ~/.ssh/id_rsa
-	chmod 600 ~/.ssh/id_rsa
-
+	
 	echogr Cloning master branch.
 	git clone git@github.com:$TRAVIS_REPO_SLUG master
 
