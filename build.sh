@@ -28,8 +28,8 @@ else
 	echogr Starting deployment.
 
 	echogr Importing SSH key.
-	base64 -d <<< $SSH_KEY > ~/.ssh/id_rsa
-	chmod 600 ~/.ssh/id_rsa
+	base64 -d <<< $SSH_KEY > ~/.ssh/id_dsa
+	chmod 600 ~/.ssh/id_dsa
 
 	echogr Cloning master branch.
 	git clone git@github.com:$TRAVIS_REPO_SLUG master
