@@ -57,7 +57,7 @@ else
 		GIT_COMMITTER_DATE=$(git show -s --format="%cD" $TRAVIS_COMMIT) git commit -S -F commit-msg.tmp
 
 		echogr Changes committed, pushing.
-		git push
+		git push "https://${GH_TOKEN}@${GH_REF}"
 	else
 		echogr No changes detected, deployment skipped.
 	fi
