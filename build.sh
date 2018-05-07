@@ -26,7 +26,14 @@ elif [ "$TRAVIS_BRANCH" != "hosts-source" ]; then
 	echoye Bulding for a branch other than \"hosts-source\", deployment skipped.
 else
 	echogr Starting deployment.
-	
+
+	echogr Importing SSH key.
+	base64 -d <<< $SSH_KEY > ~/.ssh/id_ed25519
+	chmod 600 ~/.ssh/id_ed25519
+
+	echogr Importing GPG key.
+	base64 -d <<< $GPG_KEY | gpg --import
+
 	echogr Cloning master branch.
 	git clone git@github.com:$TRAVIS_REPO_SLUG master
 
@@ -37,11 +44,11 @@ else
 		echogr Changes detected.
 
 		echogr Configuring git.
-		git config user.name "${U_NAME}"
-		git config user.email "${U_EMAIL}"
-		git add .
-		git commit -m "Update tools"
-		
+		git config user.name $COMMIT_USER
+		git config user.email $COMMIT_EMAIL
+		git config user.signingkey $GPG_KEY_ID
+		git config push.default simple
+
 		echogr Git configured.
 		cat .git/config
 
@@ -58,7 +65,7 @@ else
 		GIT_COMMITTER_DATE=$(git show -s --format="%cD" $TRAVIS_COMMIT) git commit -S -F commit-msg.tmp
 
 		echogr Changes committed, pushing.
-		git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
+		git push
 	else
 		echogr No changes detected, deployment skipped.
 	fi
