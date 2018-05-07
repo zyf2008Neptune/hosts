@@ -37,10 +37,11 @@ else
 		echogr Changes detected.
 
 		echogr Configuring git.
-		git config user.name $COMMIT_USER
-		git config user.email $COMMIT_EMAIL
-		git config push.default simple
-
+		git config user.name "${U_NAME}"
+		git config user.email "${U_EMAIL}"
+		git add .
+		git commit -m "Update tools"
+		
 		echogr Git configured.
 		cat .git/config
 
@@ -57,7 +58,7 @@ else
 		GIT_COMMITTER_DATE=$(git show -s --format="%cD" $TRAVIS_COMMIT) git commit -S -F commit-msg.tmp
 
 		echogr Changes committed, pushing.
-		git push "https://${GH_TOKEN}@${GH_REF}"
+		git push
 	else
 		echogr No changes detected, deployment skipped.
 	fi
