@@ -31,7 +31,7 @@ else
 	base64 -d <<< $SSH_KEY > ~/.ssh/id_rsa
 	chmod 600 ~/.ssh/id_rsa
 	eval $(ssh-agent -s) 
-        ssh-add ~/.ssh/id_rsa
+        ssh-add -K ~/.ssh/id_rsa
 
 	echogr Cloning master branch.
 	git clone git@github.com:$TRAVIS_REPO_SLUG master
