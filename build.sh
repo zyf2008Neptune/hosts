@@ -30,9 +30,7 @@ else
 	echogr Importing SSH key.
 	base64 -d <<< $SSH_KEY > ~/.ssh/id_rsa
 	chmod 600 ~/.ssh/id_rsa
-        eval $(ssh-agent -s)
-	ssh-add
-	
+        	
 	echogr Cloning master branch.
 	git clone git@github.com:$TRAVIS_REPO_SLUG master
 
