@@ -30,7 +30,7 @@ else
 	echogr Importing SSH key.
 	base64 -d <<< $SSH_KEY > ~/.ssh/id_rsa
 	chmod 600 ~/.ssh/id_rsa
-	eval 'ssh-agent'
+	eval $(ssh-agent -s)
 	ssh-agent bash
         ssh-add
 
