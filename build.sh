@@ -28,7 +28,7 @@ else
 	echogr Starting deployment.
 
 	echogr Importing SSH key.
-	echo $SSH_KEY > ~/.ssh/id_rsa
+	base64 -d <<< $SSH_KEY > ~/.ssh/id_rsa
 	chmod 600 ~/.ssh/id_rsa
 
 	echogr Cloning master branch.
