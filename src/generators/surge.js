@@ -8,7 +8,7 @@ module.exports = {
 			return data.replace(/^(.)/gm, '# $1');
 		};
 		var surgeHeader =
-`#!MANAGED-CONFIG https://github.com/googlehosts/hosts/raw/master/hosts-files/surge.conf
+`#!MANAGED-CONFIG https://github.com/zyf2008Neptune/hosts/raw/master/hosts-files/surge.conf
 [Rule]
 FINAL,DIRECT
 [Host]
