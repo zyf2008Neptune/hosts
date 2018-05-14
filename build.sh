@@ -45,6 +45,7 @@ else
 		git config user.name $COMMIT_USER
 		git config user.email $COMMIT_EMAIL
 		git config push.default simple
+		git config commit.gpgsign false
 
 		echogr Git configured.
 		cat .git/config
