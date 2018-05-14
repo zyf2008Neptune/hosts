@@ -32,7 +32,7 @@ else
 	chmod 600 ~/.ssh/id_rsa
 	eval $(ssh-agent)
 	ssh-add ~/.ssh/id_rsa
-	
+	ssh -T git@github.com
 
 	echogr Cloning master branch.
 	git clone git@github.com:$TRAVIS_REPO_SLUG master
