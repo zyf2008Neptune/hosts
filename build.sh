@@ -58,6 +58,9 @@ else
 			printf "Multiple commits from hosts-source.\n\n" > commit-msg.tmp
 			git log --format="%H %B" $TRAVIS_COMMIT_RANGE >> commit-msg.tmp
 		fi
+		git commit -m 'initial commit'
+		
+		echogr Changes committed, pushing.
 		git push
 	else
 		echogr No changes detected, deployment skipped.
