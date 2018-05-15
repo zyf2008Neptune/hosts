@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-14
+# Last updated: 2018-05-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -15561,6 +15561,7 @@ add address=104.27.216.28 name=thepiratebay.org
 add address=104.24.254.11 name=e-hentai.org
 add address=94.100.18.243 name=forums.e-hentai.org
 add address=37.48.71.38 name=ehgt.org
+add address=94.100.29.71 name=ehtracker.org
 # E-hentai End
 
 # Modified Hosts End

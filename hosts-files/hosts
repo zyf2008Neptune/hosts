@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-14
+# Last updated: 2018-05-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -15559,6 +15559,7 @@
 104.24.254.11	e-hentai.org
 94.100.18.243	forums.e-hentai.org
 37.48.71.38	ehgt.org
+94.100.29.71	ehtracker.org
 # E-hentai End
 
 # Modified Hosts End
