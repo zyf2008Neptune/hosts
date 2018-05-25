@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-15
+# Last updated: 2018-05-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -186,11 +186,11 @@
 216.58.221.65	yt3.ggpht.com
 211.20.148.228	hichannel.hinet.net
 52.1.240.62	id.heroku.com
-54.250.252.63	humble.pubnub.com
-104.20.34.236	humblebundle.com
-203.69.81.33	humblebundle-a.akamaihd.net
-52.36.140.12	pubnub.com
-216.58.200.243	www.humblebundle.com
+54.236.3.170	humble.pubnub.com
+104.20.35.236	humblebundle.com
+23.219.88.174	humblebundle-a.akamaihd.net
+52.35.190.21	pubnub.com
+172.217.11.19	www.humblebundle.com
 151.101.100.193	imgur.com m.imgur.com api.imgur.com www.imgur.com store.imgur.com s.imgur.com p.imgur.com i.imgur.com
 54.193.15.78	appload.ingest.crittercism.com api.crittercism.com
 54.193.253.0	txn.ingest.crittercism.com
