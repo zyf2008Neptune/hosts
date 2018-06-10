@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-25
+# Last updated: 2018-06-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3025,6 +3025,10 @@
 74.120.8.13	my.pcloud.com
 # Pcloud End
 
+# Pepitastore Start
+68.232.44.109	ips.pepitastore.com
+# Pepitastore End
+
 # Pinterest Start
 151.101.128.84	pinterest.com
 151.101.128.84	www.pinterest.com
@@ -3236,7 +3240,7 @@
 223.119.217.234	steamcommunity.com
 173.223.87.13	help.steampowered.com
 23.50.18.229	store.steampowered.com
-23.4.240.26	steamcommunity-a.akamaihd.net
+69.31.76.137	steamcommunity-a.akamaihd.net
 184.28.218.74	steamuserimages-a.akamaihd.net
 184.25.205.16	steamcdn-a.akamaihd.net
 184.25.205.19	cdn.akamai.steamstatic.com
@@ -15558,7 +15562,7 @@
 # E-hentai Start
 104.24.254.11	e-hentai.org
 94.100.18.243	forums.e-hentai.org
-37.48.71.38	ehgt.org
+81.171.14.118	ehgt.org
 94.100.29.71	ehtracker.org
 # E-hentai End
 

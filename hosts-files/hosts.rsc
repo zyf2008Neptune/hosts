@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-05-25
+# Last updated: 2018-06-10
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3027,6 +3027,10 @@ add address=134.170.104.157 name=skyweb.skyprod.akadns.net
 add address=74.120.8.13 name=my.pcloud.com
 # Pcloud End
 
+# Pepitastore Start
+add address=68.232.44.109 name=ips.pepitastore.com
+# Pepitastore End
+
 # Pinterest Start
 add address=151.101.128.84 name=pinterest.com
 add address=151.101.128.84 name=www.pinterest.com
@@ -3238,7 +3242,7 @@ add address=64.71.134.121 name=support.ixquick.com
 add address=223.119.217.234 name=steamcommunity.com
 add address=173.223.87.13 name=help.steampowered.com
 add address=23.50.18.229 name=store.steampowered.com
-add address=23.4.240.26 name=steamcommunity-a.akamaihd.net
+add address=69.31.76.137 name=steamcommunity-a.akamaihd.net
 add address=184.28.218.74 name=steamuserimages-a.akamaihd.net
 add address=184.25.205.16 name=steamcdn-a.akamaihd.net
 add address=184.25.205.19 name=cdn.akamai.steamstatic.com
@@ -15560,7 +15564,7 @@ add address=104.27.216.28 name=thepiratebay.org
 # E-hentai Start
 add address=104.24.254.11 name=e-hentai.org
 add address=94.100.18.243 name=forums.e-hentai.org
-add address=37.48.71.38 name=ehgt.org
+add address=81.171.14.118 name=ehgt.org
 add address=94.100.29.71 name=ehtracker.org
 # E-hentai End
 
