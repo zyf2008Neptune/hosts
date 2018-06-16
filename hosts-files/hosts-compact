@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-11
+# Last updated: 2018-06-16
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1258,5 +1258,6 @@
 94.100.18.243	forums.e-hentai.org
 81.171.14.118	ehgt.org
 94.100.29.71	ehtracker.org
+192.124.249.155	sukebei.nyaa.si
 
 # Modified Hosts End
