@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-16
+# Last updated: 2018-06-20
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3434,22 +3434,26 @@ add address=82.165.229.94 name=suche.web.de
 add address=54.93.172.67 name=lokale.suche.web.de
 # Web.de End
 
+# Wiktionary Start
+add address=208.80.153.224 name=wiktionary.org
+# Wiktionary End
+
 # Wikinews Start
-add address=198.35.26.96 name=zh.wikinews.org
-add address=198.35.26.96 name=zh.m.wikinews.org
+add address=208.80.153.224 name=zh.wikinews.org
+add address=208.80.153.224 name=zh.m.wikinews.org
 # Wikinews End
 
 # Wikipedia Start
-add address=198.35.26.96 name=www.wikipedia.org
-add address=198.35.26.96 name=login.wikimedia.org
-add address=198.35.26.96 name=wuu.wikipedia.org
-add address=198.35.26.96 name=zh-yue.wikipedia.org
-add address=198.35.26.96 name=zh.wikipedia.org
-add address=198.35.26.96 name=zh.m.wikipedia.org
-add address=198.35.26.96 name=ja.wikipedia.org
-add address=198.35.26.96 name=ja.m.wikipedia.org
-add address=198.35.26.96 name=ug.wikipedia.org
-add address=198.35.26.96 name=ug.m.wikipedia.org
+add address=208.80.153.224 name=www.wikipedia.org
+add address=208.80.153.224 name=login.wikimedia.org
+add address=208.80.153.224 name=wuu.wikipedia.org
+add address=208.80.153.224 name=zh-yue.wikipedia.org
+add address=208.80.153.224 name=zh.wikipedia.org
+add address=208.80.153.224 name=zh.m.wikipedia.org
+add address=208.80.153.224 name=ja.wikipedia.org
+add address=208.80.153.224 name=ja.m.wikipedia.org
+add address=208.80.153.224 name=ug.wikipedia.org
+add address=208.80.153.224 name=ug.m.wikipedia.org
 add address=198.35.26.112 name=upload.wikimedia.org
 # Wikipedia End
 
