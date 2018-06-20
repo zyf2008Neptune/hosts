@@ -3436,6 +3436,8 @@ add address=54.93.172.67 name=lokale.suche.web.de
 
 # Wiktionary Start
 add address=208.80.153.224 name=en.wiktionary.org
+add address=208.80.153.224 name=zh.wiktionary.org
+add address=208.80.153.224 name=jp.wiktionary.org
 # Wiktionary End
 
 # Wikinews Start
