@@ -1,2 +1,4 @@
 node_modules/
 output/
+/.vs/hosts/v15
+/.vs
