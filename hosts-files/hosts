@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-20
+# Last updated: 2018-06-22
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3014,10 +3014,10 @@
 
 # OneDrive Start
 204.79.197.213	api.onedrive.com
-23.76.75.24	api.onedrive.live.com
-131.253.33.217	onedrive.live.com
-131.253.33.217	webedgegeo.skyprod.akadns.net
-131.253.14.230	skyapi.onedrive.live.com
+23.196.102.40	api.onedrive.live.com
+204.79.197.217	onedrive.live.com
+204.79.197.217	webedgegeo.skyprod.akadns.net
+40.90.136.20	skyapi.onedrive.live.com
 134.170.104.157	skyweb.skyprod.akadns.net
 # OneDrive End
 

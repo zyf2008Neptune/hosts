@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-20
+# Last updated: 2018-06-22
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3016,10 +3016,10 @@ add address=151.101.193.164 name=i1.nyt.com
 
 # OneDrive Start
 add address=204.79.197.213 name=api.onedrive.com
-add address=23.76.75.24 name=api.onedrive.live.com
-add address=131.253.33.217 name=onedrive.live.com
-add address=131.253.33.217 name=webedgegeo.skyprod.akadns.net
-add address=131.253.14.230 name=skyapi.onedrive.live.com
+add address=23.196.102.40 name=api.onedrive.live.com
+add address=204.79.197.217 name=onedrive.live.com
+add address=204.79.197.217 name=webedgegeo.skyprod.akadns.net
+add address=40.90.136.20 name=skyapi.onedrive.live.com
 add address=134.170.104.157 name=skyweb.skyprod.akadns.net
 # OneDrive End
 
