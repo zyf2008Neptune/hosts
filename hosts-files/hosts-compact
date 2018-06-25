@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-22
+# Last updated: 2018-06-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -428,7 +428,7 @@
 64.71.175.181	www.ixquick.com ixquick.com
 64.71.134.122	support.startpage.com
 64.71.134.121	support.ixquick.com
-104.116.246.174	steamcommunity.com
+104.95.230.251	steamcommunity.com
 104.105.70.33	help.steampowered.com store.steampowered.com
 23.219.88.24	steamcommunity-a.akamaihd.net
 23.219.88.83	steamuserimages-a.akamaihd.net
