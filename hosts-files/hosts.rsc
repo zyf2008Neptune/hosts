@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-06-25
+# Last updated: 2018-06-30
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3239,13 +3239,13 @@ add address=64.71.134.121 name=support.ixquick.com
 # Startpage & Ixquick End
 
 # Steam Start
-add address=104.95.230.251 name=steamcommunity.com
-add address=104.105.70.33 name=help.steampowered.com
-add address=104.105.70.33 name=store.steampowered.com
-add address=23.219.88.24 name=steamcommunity-a.akamaihd.net
-add address=23.219.88.83 name=steamuserimages-a.akamaihd.net
-add address=23.219.88.11 name=steamcdn-a.akamaihd.net
-add address=23.219.88.11 name=cdn.akamai.steamstatic.com
+add address=223.119.217.234 name=steamcommunity.com
+add address=173.223.87.13 name=help.steampowered.com
+add address=23.50.18.229 name=store.steampowered.com
+add address=23.4.240.26 name=steamcommunity-a.akamaihd.net
+add address=184.28.218.74 name=steamuserimages-a.akamaihd.net
+add address=184.25.205.16 name=steamcdn-a.akamaihd.net
+add address=184.25.205.19 name=cdn.akamai.steamstatic.com
 # Steam End
 
 # Theinitium Start
