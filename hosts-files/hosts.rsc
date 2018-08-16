@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-08-05
+# Last updated: 2018-08-16
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -15611,5 +15611,9 @@ add address=94.100.29.71 name=ehtracker.org
 # nyaa Start
 add address=192.124.249.155 name=sukebei.nyaa.si
 # nyaa End
+
+# studiofow Start
+add address=104.24.109.14 name=www.studiofow.com
+# studiofow End
 
 # Modified Hosts End

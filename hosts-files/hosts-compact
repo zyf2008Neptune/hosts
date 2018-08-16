@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-08-05
+# Last updated: 2018-08-16
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -1292,5 +1292,6 @@
 81.171.14.118	ehgt.org
 94.100.29.71	ehtracker.org
 192.124.249.155	sukebei.nyaa.si
+104.24.109.14	www.studiofow.com
 
 # Modified Hosts End
