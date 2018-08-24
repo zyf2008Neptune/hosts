@@ -3273,7 +3273,7 @@ add address=64.71.134.121 name=support.ixquick.com
 # Startpage & Ixquick End
 
 # Steam Start
-add address=104.94.118.128 name=steamcommunity.com
+add address=184.87.196.52 name=steamcommunity.com
 add address=173.223.87.13 name=help.steampowered.com
 add address=96.17.104.187 name=store.steampowered.com
 add address=23.4.240.26 name=steamcommunity-a.akamaihd.net
