@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-08-16
+# Last updated: 2018-08-24
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3271,7 +3271,7 @@
 # Startpage & Ixquick End
 
 # Steam Start
-223.119.217.234	steamcommunity.com
+104.94.118.128	steamcommunity.com
 173.223.87.13	help.steampowered.com
 96.17.104.187	store.steampowered.com
 23.4.240.26	steamcommunity-a.akamaihd.net
@@ -15613,5 +15613,9 @@
 # studiofow Start
 104.24.109.14	www.studiofow.com
 # studiofow End
+
+# tineye Start
+104.20.59.149	www.tineye.com
+# tineye End
 
 # Modified Hosts End
