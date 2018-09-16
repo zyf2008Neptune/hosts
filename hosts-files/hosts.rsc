@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-07
+# Last updated: 2018-09-16
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3110,7 +3110,7 @@ add address=52.6.255.21 name=developers.pinterest.com
 # Pinterest End
 
 # Pixiv Start
-add address=210.129.120.42 name=www.pixiv.net
+add address=210.129.120.50 name=www.pixiv.net
 add address=210.129.120.44 name=touch.pixiv.net
 add address=210.140.131.147 name=source.pixiv.net
 add address=210.129.120.44 name=accounts.pixiv.net

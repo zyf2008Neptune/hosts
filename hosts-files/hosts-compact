@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-07
+# Last updated: 2018-09-16
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -377,10 +377,11 @@
 52.6.255.21	dev.pinterest.com developers.pinterest.com
 54.149.226.209	post.pinterest.com
 52.5.103.187	trk.pinterest.com
-210.129.120.42	www.pixiv.net app-api.pixiv.net ssl.pixiv.net pixiv.net genepixiv.pr.pixiv.net chat.pixiv.net
+210.129.120.50	www.pixiv.net
 210.129.120.44	touch.pixiv.net accounts.pixiv.net factory.pixiv.net payment.pixiv.net sensei.pixiv.net recruit.pixiv.net inside.pixiv.net goods.pixiv.net comic-api.pixiv.net
 210.140.131.147	source.pixiv.net comic.pixiv.net novel.pixiv.net
 210.140.131.144	imgaz.pixiv.net
+210.129.120.42	app-api.pixiv.net ssl.pixiv.net pixiv.net genepixiv.pr.pixiv.net chat.pixiv.net
 210.129.120.41	oauth.secure.pixiv.net dic.pixiv.net m.pixiv.net en.dic.pixiv.net embed.pixiv.net
 74.120.148.201	g-client-proxy.pixiv.net
 210.140.174.37	sketch.pixiv.net
