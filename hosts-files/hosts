@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-16
+# Last updated: 2018-10-23
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -851,18 +851,6 @@
 216.58.200.24	www.google.com.vn
 # Google Search Country End
 
-# Google Search Home Start
-172.217.26.195	p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
-172.217.27.247	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
-216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
-216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-108.177.96.161	ogs.google.com
-108.177.9.162	www.google.com
-108.177.103.161	id.google.com
-108.177.103.163	clients5.google.com
-108.177.111.119	apis.google.com
-# Google Search Home End
-
 # Google Service Start
 216.239.34.21	blog.google
 216.239.38.21	environment.google
@@ -1088,7 +1076,6 @@
 173.194.70.125	hangouts.google.com
 74.125.197.115	checkout.google.com
 64.15.126.80	drive.google.com
-64.233.168.162	ipv4.google.com
 108.177.125.189	0.client-channel.google.com
 108.177.125.189	1.client-channel.google.com
 108.177.125.189	2.client-channel.google.com
@@ -15612,6 +15599,7 @@
 
 # studiofow Start
 104.24.109.14	www.studiofow.com
+104.24.109.14	studiofow.com
 # studiofow End
 
 # tineye Start

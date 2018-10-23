@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-16
+# Last updated: 2018-10-23
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -173,15 +173,6 @@
 74.125.248.73	git.chromium.org
 216.58.200.24	www.goo.gl www.google.com.af www.google.com.ag www.google.com.ai www.google.com.ar www.google.com.au www.google.com.bd www.google.com.bh www.google.com.bn www.google.com.bo www.google.com.br www.google.com.by www.google.com.bz www.google.com.co www.google.com.co.jp www.google.com.cu www.google.com.cy www.google.com.do www.google.com.ec www.google.com.eg www.google.com.et www.google.com.fj www.google.com.ge www.google.com.gh www.google.com.gi www.google.com.gr www.google.com.gt www.google.com.iq www.google.com.jm www.google.com.jo www.google.com.kh www.google.com.kw www.google.com.lb www.google.com.ly www.google.com.mm www.google.com.mt www.google.com.mx www.google.com.my www.google.com.na www.google.com.nf www.google.com.ng www.google.com.ni www.google.com.np www.google.com.nr www.google.com.om www.google.com.pa www.google.com.pe www.google.com.pg www.google.com.ph www.google.com.pk www.google.com.pr www.google.com.py www.google.com.qa www.google.com.ru www.google.com.sa www.google.com.sb www.google.com.sg www.google.com.sl www.google.com.sv www.google.com.tj www.google.com.tr www.google.com.ua www.google.com.uy www.google.com.vc www.google.com.vn
 172.217.4.163	www.google.com.hk www.google.com.tw
-172.217.26.195	p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
-172.217.27.247	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
-216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
-216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-108.177.96.161	ogs.google.com
-108.177.9.162	www.google.com
-108.177.103.161	id.google.com
-108.177.103.163	clients5.google.com
-108.177.111.119	apis.google.com
 216.239.34.21	blog.google 3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
 216.239.38.21	environment.google ghs.google.com ghs46.google.com ghs.l.google.com ghs46.l.google.com www.nianticlabs.com gsamplemaps.googlepages.com javascript-blocker.toggleable.com goto.ext.google.com webrtc.org www.webrtc.org chromeexperiments.com www.chromeexperiments.com vr.chromeexperiments.com globe.chromeexperiments.com workshop.chromeexperiments.com www.gwtproject.org www.html5rocks.com slides.html5rocks.com playground.html5rocks.com studio.html5rocks.com lists.webmproject.org www.waveprotocol.org www.20thingsilearned.com www.creativelab5.com blog.webmproject.org www.agoogleaday.com www.gosetsuden.jp www.thegooglepuzzle.com www.thegobridgeoglepuzzle.com www.googlezeitgeist.com news.dartlang.org dartpad.dartlang.org ghs-svc-https-sni.ghs-ssl.googlehosted.com polymer-project.org material.io www.autodraw.com madewithcode.com www.madewithcode.com 220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
 172.217.161.182	domains.google
@@ -190,7 +181,6 @@
 173.194.70.125	hangouts.google.com
 74.125.197.115	checkout.google.com
 64.15.126.80	drive.google.com
-64.233.168.162	ipv4.google.com
 108.177.125.189	0.client-channel.google.com 1.client-channel.google.com 2.client-channel.google.com 3.client-channel.google.com 4.client-channel.google.com 5.client-channel.google.com 6.client-channel.google.com 7.client-channel.google.com 8.client-channel.google.com 9.client-channel.google.com 10.client-channel.google.com 11.client-channel.google.com 12.client-channel.google.com 13.client-channel.google.com 14.client-channel.google.com 15.client-channel.google.com 16.client-channel.google.com 17.client-channel.google.com 18.client-channel.google.com 19.client-channel.google.com 20.client-channel.google.com 21.client-channel.google.com 22.client-channel.google.com 23.client-channel.google.com 24.client-channel.google.com 25.client-channel.google.com 26.client-channel.google.com 27.client-channel.google.com 28.client-channel.google.com 29.client-channel.google.com cello.client-channel.google.com 0.docs.google.com 1.docs.google.com 2.docs.google.com 3.docs.google.com 4.docs.google.com 5.docs.google.com 6.docs.google.com 7.docs.google.com 8.docs.google.com 9.docs.google.com 10.docs.google.com 11.docs.google.com 12.docs.google.com 13.docs.google.com 14.docs.google.com 15.docs.google.com 16.docs.google.com 0.drive.google.com 1.drive.google.com 2.drive.google.com 3.drive.google.com 4.drive.google.com 5.drive.google.com 6.drive.google.com 7.drive.google.com 8.drive.google.com 9.drive.google.com 10.drive.google.com 11.drive.google.com 12.drive.google.com 13.drive.google.com 14.drive.google.com 15.drive.google.com 16.drive.google.com chromoting-oauth.talkgadget.google.com chromoting-host.talkgadget.google.com chromoting-client.talkgadget.google.com 0.talkgadget.google.com
 108.177.97.107	www.googlechinawebmaster.com t0.gstatic.com t1.gstatic.com t2.gstatic.com t3.gstatic.com
 172.217.162.15	upload.google.com upload.video.google.com upload.clients.google.com uploads.clients.google.com upload.drive.google.com upload.youtube.com uploads.stage.gdata.youtube.com uploadsj.clients.google.com
@@ -1293,7 +1283,7 @@
 81.171.14.118	ehgt.org
 94.100.29.71	ehtracker.org
 192.124.249.155	sukebei.nyaa.si
-104.24.109.14	www.studiofow.com
+104.24.109.14	www.studiofow.com studiofow.com
 104.20.59.149	www.tineye.com
 
 # Modified Hosts End

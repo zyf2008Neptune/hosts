@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-09-16
+# Last updated: 2018-10-23
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -853,18 +853,6 @@ add address=216.58.200.24 name=www.google.com.vc
 add address=216.58.200.24 name=www.google.com.vn
 # Google Search Country End
 
-# Google Search Home Start
-add address=172.217.26.195 name=p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
-add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
-add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
-add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
-add address=108.177.96.161 name=ogs.google.com
-add address=108.177.9.162 name=www.google.com
-add address=108.177.103.161 name=id.google.com
-add address=108.177.103.163 name=clients5.google.com
-add address=108.177.111.119 name=apis.google.com
-# Google Search Home End
-
 # Google Service Start
 add address=216.239.34.21 name=blog.google
 add address=216.239.38.21 name=environment.google
@@ -1090,7 +1078,6 @@ add address=172.217.166.75 name=mobile.l.google.com
 add address=173.194.70.125 name=hangouts.google.com
 add address=74.125.197.115 name=checkout.google.com
 add address=64.15.126.80 name=drive.google.com
-add address=64.233.168.162 name=ipv4.google.com
 add address=108.177.125.189 name=0.client-channel.google.com
 add address=108.177.125.189 name=1.client-channel.google.com
 add address=108.177.125.189 name=2.client-channel.google.com
@@ -15614,6 +15601,7 @@ add address=192.124.249.155 name=sukebei.nyaa.si
 
 # studiofow Start
 add address=104.24.109.14 name=www.studiofow.com
+add address=104.24.109.14 name=studiofow.com
 # studiofow End
 
 # tineye Start
