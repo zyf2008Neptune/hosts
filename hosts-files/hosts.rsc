@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-10-23
+# Last updated: 2018-12-15
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -2996,7 +2996,8 @@ add address=2.17.56.25 name=profile.line-scdn.net
 # Line End
 
 # MEGA Start
-add address=31.216.148.12 name=mega.nz
+add address=31.216.148.10 name=mega.nz
+add address=72.21.91.188 name=g.cdn1.mega.co.nz
 # MEGA End
 
 # Medium Start
