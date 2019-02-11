@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-15
+# Last updated: 2019-02-11
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -3263,7 +3263,7 @@ add address=64.71.134.121 name=support.ixquick.com
 # Steam Start
 add address=104.95.230.251 name=steamcommunity.com
 add address=173.223.87.13 name=help.steampowered.com
-add address=96.17.104.187 name=store.steampowered.com
+add address=104.102.207.29 name=store.steampowered.com
 add address=23.4.240.26 name=steamcommunity-a.akamaihd.net
 add address=184.28.218.74 name=steamuserimages-a.akamaihd.net
 add address=184.25.205.16 name=steamcdn-a.akamaihd.net
