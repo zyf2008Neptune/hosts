@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-02-11
+# Last updated: 2019-02-18
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -15594,6 +15594,7 @@ add address=104.24.254.11 name=e-hentai.org
 add address=94.100.18.243 name=forums.e-hentai.org
 add address=81.171.14.118 name=ehgt.org
 add address=94.100.29.71 name=ehtracker.org
+add address=81.171.17.131 name=api.e-hentai.org
 # E-hentai End
 
 # nyaa Start
